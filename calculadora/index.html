@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="calculator">
+        <h2 style="text-align: center;">Calculadora {minas}</h2>
+        <div class="screen" id="screen">
+            0
+        </div>
+        <div class="buttons">
+            <button onclick="adicionarNaTela('1')">1</button>
+            <button onclick="adicionarNaTela('2')">2</button>
+            <button onclick="adicionarNaTela('3')">3</button>
+            <button onclick="adicionarOperador('+')">+</button>
+            <button onclick="adicionarNaTela('4')">4</button>
+            <button onclick="adicionarNaTela('5')">5</button>
+            <button onclick="adicionarNaTela('6')">6</button>
+            <button onclick="adicionarOperador('-')">-</button>
+            <button onclick="adicionarNaTela('7')">7</button>
+            <button onclick="adicionarNaTela('8')">8</button>
+            <button onclick="adicionarNaTela('9')">9</button>
+            <button onclick="adicionarOperador('*')">*</button>
+            <button onclick="adicionarNaTela('0')">0</button>
+            <button onclick="limparTela()">C</button>
+            <button onclick="calcularResultado()">=</button>
+            <button onclick="adicionarOperador('/')">/</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
