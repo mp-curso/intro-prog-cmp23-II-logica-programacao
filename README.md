@@ -1,5 +1,9 @@
 # Minas Programam | Lógica de Programação 🚀
 
+por
+[Mayhhara Morais](https://github.com/mflilian) &
+[Lisandra Cruz](<(https://github.com/lisandrascruz)>)
+
 Este módulo foi desenvolvido para fornecer uma introdução sólida aos conceitos fundamentais da lógica de programação.
 
 A lógica de programação é uma habilidade essencial para qualquer pessoa desenvolvedora de software, pois é o alicerce sobre o qual construímos programas e soluções computacionais. Independentemente da linguagem de programação que você pretende aprender ~ no nosso caso, Javascript ~, ter uma compreensão sólida da lógica de programação vai te ajudar a escrever códigos mais claros, eficientes e livres de erros.
@@ -12,7 +16,6 @@ Lembre-se de que a lógica de programação é uma habilidade que se desenvolve 
 
 Chega de papo, bora começar!
 
-`Feito com <3 por Lis e May`
+---
 
-[Mayhara Morais](https://github.com/mflilian) (LPI e LPII)
-[Lisandra Cruz](<(https://github.com/lisandrascruz)>) (LPIII)
+`Feito com <3 por Lis e May`
