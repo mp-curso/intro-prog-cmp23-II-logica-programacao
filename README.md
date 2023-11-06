@@ -2,7 +2,7 @@
 
 por
 [Mayhhara Morais](https://github.com/mflilian) &
-[Lisandra Cruz](<(https://github.com/lisandrascruz)>)
+[Lisandra Cruz](https://github.com/lisandrascruz)
 
 Este módulo foi desenvolvido para fornecer uma introdução sólida aos conceitos fundamentais da lógica de programação.
 
