@@ -6,14 +6,16 @@ Criar função é o ato de encapsular trechos de código que podem ser invocados
 
 ```javascript
 // Através do function tradicional
-function minhaFuncao() {
+function minhaFuncao1() {
   // faz alguma coisa
 }
+minhaFuncao1();
 
 //através de arrow function
-const minhaFuncao = () => {
+const minhaFuncao2 = () => {
   // faz alguma coisa
 };
+minhaFuncao2();
 ```
 
 ✏️ Crie uma função que mostra um `console.log` contendo seu nome e sua idade.
