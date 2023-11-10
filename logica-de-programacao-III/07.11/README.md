@@ -46,7 +46,7 @@ const soma = (n1, n2) => {
 
 ✏️ Crie uma função que receberá 3 notas e dirá a média do estudante.
 
-✏️ Crie uma função que recebe por parâmetro o tempo de duração expressa em segundos e retorna esse tempo em horas e minutos.
+✏️ Crie uma função que recebe por parâmetro o tempo de duração expressa em segundos e retorna esse tempo em minutos (divide por 60) e horas.
 
 ✏️ Crie uma função que receba três números, verifique e mostre o maior deles.
 
