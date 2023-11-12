@@ -26,9 +26,3 @@ const primos = [
   157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233,
 ];
 ```
-
-# ForEach
-
-```javascript
-primos.forEach((item) => console.log(item));
-```
